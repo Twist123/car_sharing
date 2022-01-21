@@ -1,0 +1,6 @@
+com\lab2\maintenance\api\dto\MaintenanceItem.class
+com\lab2\maintenance\repo\model\Maintenance.class
+com\lab2\maintenance\service\MaintenanceService.class
+com\lab2\maintenance\api\MaintenanceController.class
+com\lab2\maintenance\MaintenanceApplication.class
+com\lab2\maintenance\repo\MaintenanceRepo.class

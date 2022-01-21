@@ -1,0 +1,7 @@
+com\lab2\identities\api\IndexController.class
+com\lab2\identities\repo\model\Identity.class
+com\lab2\identities\IdentitiesApplication.class
+com\lab2\identities\repo\IdentityRepo.class
+com\lab2\identities\service\IdentityService.class
+com\lab2\identities\api\dto\IdentityItem.class
+com\lab2\identities\api\IdentityController.class
